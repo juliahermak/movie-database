@@ -1,9 +1,7 @@
 <template>
-  <v-main>
-    <router-view />
-  </v-main>
+  <v-btn>Hello</v-btn>
 </template>
 
 <script setup>
-  //
+//
 </script>
